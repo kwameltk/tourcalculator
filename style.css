@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed");
 body {
     font-family: sans-serif;
-    background-image: url('/bruku\ hiking.jpg'); /* Replace with your image URL */
+    background-image: url('./bruku.jpg'); /* Replace with your image URL */
     background-size: cover;
     background-position: center;
     display: flex;
